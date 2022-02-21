@@ -18,7 +18,7 @@ const filterHandler=(event)=>{
         
         <div className="container">
 
-        <center><h1>Shopping Cart</h1></center> <br/>
+        <center><h1>Shopping Cart App</h1></center> <br/>
         <label><b>Filter By Category/Name: </b></label>
         <input type="text" onChange={filterHandler}/> <br/> <br/>
 
